@@ -1,0 +1,15 @@
+{
+  "name": "todo-list-contract",
+  "version": "1.0.0",
+  "description": "Todo-list smart contract written on solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "web3": "^1.5.2"
+  }
+}
